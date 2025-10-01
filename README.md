@@ -1,0 +1,2 @@
+# LLM_finetuning_project
+This repository is for CS614 Assignment 1 task - further LLM training (finetuning)
